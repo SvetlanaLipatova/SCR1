@@ -1,0 +1,9 @@
+scr1_top_tb_ahb
+---Test:                      illegal.hex
+instructionillegalTest passed
+
+#--------------------------------------
+# Summary: 1/1 tests passed
+#--------------------------------------
+
+- /home/lipatsvetlana/lipatsvetlana/lr2/SCR1/src/tb/scr1_top_tb_runtests.sv:199: Verilog $finish
