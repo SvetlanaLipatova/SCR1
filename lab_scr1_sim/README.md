@@ -13,4 +13,4 @@
 ## Результаты работы
 
 Результаты симуляции: [sim_results.txt](results/sim_results.txt) и [simx.vcd](results/simx.vcd)  
-Дамп-файл теста: [sbreak.dump](results/sbreak.dump)
+Дамп-файл теста: [illegal.dump](results/illegal.dump)
