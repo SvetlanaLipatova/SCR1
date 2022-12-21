@@ -12,5 +12,7 @@
 
 ## Результаты работы
 
+![image](https://user-images.githubusercontent.com/110569071/208876923-a6ec0a95-069f-4ec2-ac74-edba44012d60.png)
+
 Результаты симуляции: [sim_results.txt](results/sim_results.txt) и [simx.vcd](results/simx.vcd)  
 Дамп-файл теста: [illegal.dump](results/illegal.dump)
